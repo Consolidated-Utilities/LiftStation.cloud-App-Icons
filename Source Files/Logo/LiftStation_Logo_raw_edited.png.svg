@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 74.1 60"
+   version="1.1"
+   id="svg3833"
+   sodipodi:docname="LiftStation_Logo_raw_edited.png.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata3837">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LiftStation_Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview3835"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="36.591125"
+     inkscape:cy="36.827187"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3833" />
+  <defs
+     id="defs3811">
+    <style
+       id="style3795">.cls-1{fill:none;}.cls-2{fill:#d0ecf4;}.cls-3{fill:#92d7e7;}.cls-4{fill:url(#radial-gradient);}.cls-5{clip-path:url(#clip-path);}.cls-6{fill:url(#radial-gradient-2);}.cls-7{fill:#0071bc;}.cls-8{fill:url(#radial-gradient-3);}</style>
+    <radialGradient
+       id="radial-gradient"
+       cx="-11.16"
+       cy="17.29"
+       r="4.79"
+       gradientTransform="translate(14.1 0.84) scale(1 0.95)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop3797" />
+      <stop
+         offset="0"
+         stop-color="#008fd9"
+         id="stop3799" />
+    </radialGradient>
+    <clipPath
+       id="clip-path"
+       transform="translate(14.1)">
+      <rect
+         class="cls-1"
+         width="60"
+         height="60"
+         rx="10.12"
+         ry="10.12"
+         id="rect3802" />
+    </clipPath>
+    <radialGradient
+       id="radial-gradient-2"
+       cx="43.54"
+       cy="37.53"
+       r="36.38"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop3805" />
+      <stop
+         offset="1"
+         stop-color="#008fd9"
+         id="stop3807" />
+    </radialGradient>
+    <radialGradient
+       id="radial-gradient-3"
+       cx="39.19"
+       cy="9.71"
+       r="38.27"
+       xlink:href="#radial-gradient-2" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radial-gradient-2"
+       id="radialGradient3839"
+       gradientUnits="userSpaceOnUse"
+       cx="43.54"
+       cy="37.53"
+       r="36.38"
+       gradientTransform="translate(-1.8681055,-0.65306122)" />
+  </defs>
+  <title
+     id="title3813">LiftStation_Logo</title>
+  <g
+     id="clipping_mask"
+     data-name="clipping mask"
+     transform="matrix(1.2231049,0,0,0.97699406,0.51532756,1.451613)">
+    <g
+       class="cls-5"
+       clip-path="url(#clip-path)"
+       id="g3824">
+      <rect
+         class="cls-6"
+         x="12.682817"
+         width="59.549076"
+         height="59.591835"
+         id="rect3822"
+         style="fill:url(#radialGradient3839)"
+         y="-0.24489798"
+         ry="6.0408163" />
+    </g>
+  </g>
+  <g
+     id="border"
+     transform="matrix(0.99865591,0,0,1,0.09959677,0)">
+    <path
+       class="cls-7"
+       d="M 49.88,2 A 8.12,8.12 0 0 1 58,10.12 V 49.88 A 8.12,8.12 0 0 1 49.88,58 H 10.12 A 8.12,8.12 0 0 1 2,49.88 V 10.12 A 8.12,8.12 0 0 1 10.12,2 h 39.76 m 0,-2 H 10.12 A 10.12,10.12 0 0 0 0,10.12 V 49.88 A 10.12,10.12 0 0 0 10.12,60 H 49.88 A 10.12,10.12 0 0 0 60,49.88 V 10.12 A 10.12,10.12 0 0 0 49.88,0 Z"
+       transform="translate(14.1)"
+       id="path3827"
+       inkscape:connector-curvature="0"
+       style="fill:#0071bc" />
+  </g>
+  <g
+     id="droplet">
+    <path
+       class="cls-8"
+       d="M43,35.83a13,13,0,0,1-25.93,0C17,28.67,30,11.2,30,11.2S43,28.67,43,35.83Z"
+       transform="translate(14.1)"
+       id="path3830" />
+  </g>
+</svg>
